@@ -1,0 +1,4 @@
+18-08-2020 16:56:32 INFO  Class3:16 - An exception occurred!
+first.CustomException: Something went wrong, you've got an exception!
+	at first.Class3.<init>(Class3.java:16)
+	at MainClass.main(MainClass.java:10)
